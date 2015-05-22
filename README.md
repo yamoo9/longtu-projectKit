@@ -43,5 +43,12 @@ $ gem install Susy    # Susy를 사용하고자 할 경우에만 설치
 ```sh
 $ gulp
 ```
+
+---
+
+## 환경설정
+- 노드제이에스 설치
+
+
 -
 Copyright © 2015 yamoo9 <yamoo9@naver.com> / [@yamoo9](https://facebook.com/yamoo9) / [yamoo9.net](http://yamoo9.net/)
