@@ -1,0 +1,25 @@
+{
+  "name": "projectKit",
+  "version": "1.0.0",
+  "description": "Sass + Compass + Susy 프로젝트 스타트킷",
+  "author": "yamoo9",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.3.0",
+    "gulp-connect-multi": "^1.0.8",
+    "gulp-csscomb": "^3.0.3",
+    "gulp-html-ssi": "0.0.92",
+    "gulp-iconfont": "^1.0.1",
+    "gulp-iconfont-css": "0.0.9",
+    "gulp-if": "^1.2.5",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-minify-html": "^1.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^1.0.5",
+    "gulp-size": "^1.2.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "imagemin-pngquant": "^4.1.0",
+    "require-dir": "^0.3.0"
+  }
+}
